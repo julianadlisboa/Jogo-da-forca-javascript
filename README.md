@@ -26,4 +26,4 @@ Funções auxiliares, como atualizarJogo, mostrarLetrasErradas, mostrarLetrasCer
 A função checarJogo verifica se o jogador ganhou ou perdeu, exibindo a mensagem correspondente.
 
 6.Reiniciar Jogo:
-A função reiniciarJogo recarrega a página para reiniciar o jogo.
+A função reiniciar Jogo recarrega a página para reiniciar o jogo.
