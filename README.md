@@ -27,3 +27,16 @@ A função checarJogo verifica se o jogador ganhou ou perdeu, exibindo a mensage
 
 6.Reiniciar Jogo:
 A função reiniciar Jogo recarrega a página para reiniciar o jogo.
+
+Diagramas
+
+Casos de uso: 
+![diagramadeusoforca](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/6d17d851-f667-44b4-a397-75fdaef098c2)
+Documentação de uso em docx:
+[Documentação.docx](https://github.com/julianadlisboa/Jogo-da-forca-javascript/files/13349364/Documentacao.docx)
+
+Diagrama de classes:
+
+
+
+
