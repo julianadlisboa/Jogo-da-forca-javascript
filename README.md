@@ -39,6 +39,7 @@ Documentação de casos de uso em docx:
 
 
 Diagrama de classes:
+
 ![Diagramadeclasse](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/4f78be27-b7ef-49cc-8427-651ce8323bea)
 
 
