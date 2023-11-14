@@ -34,12 +34,14 @@ Casos de uso:
 ![diagramadeusoforca](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/6d17d851-f667-44b4-a397-75fdaef098c2)
 
 
-Documentação de casos de uso em docx:
-[Documentação.docx](https://github.com/julianadlisboa/Jogo-da-forca-javascript/files/13349364/Documentacao.docx)
+DOCUMENTAÇÃO DE CASOS DE USO:
+![DOC CASOS 1](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/9b05fd14-4dd3-42db-8efd-d4c0135f2b04)
+![DOC CASOS 2](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/841cc144-554e-4600-9179-f7380a72e073)
+
+
 
 
 Diagrama de classes:
-
 ![Diagramadeclasse](https://github.com/julianadlisboa/Jogo-da-forca-javascript/assets/128002239/4f78be27-b7ef-49cc-8427-651ce8323bea)
 
 
